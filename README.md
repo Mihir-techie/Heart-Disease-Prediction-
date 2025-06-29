@@ -96,7 +96,9 @@ To build a machine learning classification model that can:
 ## 📌 Author
 
 **Mihir Kumar Panigrahi**  
-- 🔗 [LinkedIn](https://linkedin.com/in/mihir-techie)
+- 🔗 https://www.linkedin.com/in/mihir-kumar-panigrahi-9b4b6627a/
+- 
+- 
 
 - 💻 Data Science Intern | AI Learner | Python Enthusiast
 
